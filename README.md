@@ -1,6 +1,6 @@
 ## Meta Learning/ Learning to Learn/ One Shot Learning/ Lifelong Learning
 
-### 1 Legacy Papers
+### 1 Legacy Papers [百度网盘](https://pan.baidu.com/s/1sHxKRpBvEXYScBBYFk9FXw) `提取码：uh2q`
 
 **[1]** Nicolas Schweighofer and Kenji Doya. **Meta-learning in reinforcement learning**. Neural Networks, 16(1):5–9, 2003.
 
@@ -49,7 +49,7 @@ Neural Computation, 4(1):131–139, 1992.
 
 **[21]** Thrun, Sebastian and Pratt, Lorien. **Learning to learn**. Springer Science & Business Media, 1998.
 
-## 2 Recent Papers
+## 2 Recent Papers [百度网盘](https://pan.baidu.com/s/1X4bVc4YPb8B8kOSQ896_-Q) `提取码：brlh`
 
 **[1]** Andrychowicz, Marcin, Denil, Misha, Gomez, Sergio, Hoffman, Matthew W, Pfau, David, Schaul, Tom, and de Freitas, Nando. **Learning to learn by gradient descent by gradient descent**. In Advances in Neural Information Processing Systems, pp. 3981–3989, 2016
 
