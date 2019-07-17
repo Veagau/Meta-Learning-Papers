@@ -47,7 +47,6 @@ Neural Computation, 4(1):131–139, 1992.
 
 **[20]** Jurgen Schmidhuber, Jieyu Zhao, and Marco Wiering. **Simple principles of metalearning**. Technical report, SEE, 1996.
 
-**[21]** Thrun, Sebastian and Pratt, Lorien. **Learning to learn**. Springer Science & Business Media, 1998.
 
 ## 2 Recent Papers [百度网盘](https://pan.baidu.com/s/1X4bVc4YPb8B8kOSQ896_-Q) `提取码：brlh`
 
